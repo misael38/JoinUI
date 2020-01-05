@@ -1,0 +1,20 @@
+---
+# \n for create a new line in menu
+# § as a color symbol
+# {name} as player's name
+
+# The Title Of The Menu
+Title: "§8» §cInformation" # UI Title
+
+#The Content Of The Menu (Description)
+Content: "§eWelcome to server •{name}• \n §bThis Server Used §6JoinUI 1.0.0 \n §cPlugin By §6Misael38"
+
+#Button Of The Menu
+Button: "§cOkay"
+
+#Message To The Player When Joined The Server!
+welcome-message: "Hi, {name}. \n§bThank You For Using JoinUI \n §eYou Can Edit The Message, Title, Content And The Button In The config.yml File"
+
+#Subscribe My Youtube Channel misael38
+#And Thanks For Agil Frost For give me a idea to create this plugin
+...

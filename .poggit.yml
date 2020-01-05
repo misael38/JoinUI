@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/misael38/JoinUI
+branches:
+- master
+projects:
+  JoinUI:
+    path: ""
+...
